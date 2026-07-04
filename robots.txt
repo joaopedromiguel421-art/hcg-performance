@@ -1,0 +1,40 @@
+# HCG Performance Equina — todos os crawlers bem-vindos, incluindo agentes de IA
+
+User-agent: *
+Allow: /
+
+# Crawlers de IA / motores generativos (liberação explícita)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://hcg-performance.vercel.app/sitemap.xml

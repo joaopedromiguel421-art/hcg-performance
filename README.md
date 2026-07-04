@@ -12,10 +12,16 @@ Basta abrir o `index.html` no navegador ou publicar em qualquer hospedagem está
 
 ## Estrutura
 
-- `index.html` — a página completa (HTML + CSS + JS inline)
-- `logo-transparente.png` — logotipo (fundo transparente) usado no topo
-- `logo.png` — logotipo original (fundo verde) — arquivo-fonte
-- `helena.jpg` — foto da seção "Sobre"
+- `index.html` — a página completa (HTML + CSS + JS inline, JSON-LD no head)
+- `logo-860.webp` / `logo-860.png` — logotipo do hero (WebP + fallback), LCP da página
+- `logo-transparente.png` — arquivo-fonte do logotipo sem fundo
+- `logo.png` — logotipo original (fundo verde), usado em OG/schema/favicons
+- `helena.webp` / `helena.jpg` — foto da seção "Sobre" (WebP + fallback)
+- `favicon.png` / `apple-touch-icon.png` — ícones
+- `fonts/` — Cormorant Garamond e Jost (woff2 latin, self-hosted)
+- `llms.txt` — resumo estruturado para agentes de IA (GEO)
+- `robots.txt` / `sitemap.xml` — indexação (crawlers de IA liberados)
+- `vercel.json` — cache imutável de assets + headers de segurança
 
 ## Publicação (Vercel)
 

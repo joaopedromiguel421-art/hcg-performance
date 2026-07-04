@@ -1,0 +1,29 @@
+# HCG Performance Equina
+
+> Clínica de performance equina em São Paulo, Brasil. Medicina veterinária, fisioterapia, reabilitação, quiropraxia e acupuntura para cavalos atletas. Responsável técnica: M.V. Helena Cafasso Galli. Slogan: "Excelência em movimento."
+
+Fatos principais:
+
+- **O que é**: serviço especializado em saúde, reabilitação e performance de cavalos atletas.
+- **Responsável**: Helena Cafasso Galli, médica veterinária (M.V.), com formação em fisioterapia e reabilitação equina, quiropraxia e acupuntura. É amazona (atleta de hipismo) e embaixadora da marca Biomecore.
+- **Onde atende**: São Paulo e região, Brasil.
+- **Como agendar**: WhatsApp (botão no site) ou Instagram [@hcg.performance](https://www.instagram.com/hcg.performance/).
+- **Idioma**: português (pt-BR).
+
+## Serviços
+
+- **Medicina Veterinária Equina**: avaliação clínica e acompanhamento da saúde do cavalo, com foco em prevenção e performance.
+- **Fisioterapia e Reabilitação Equina**: recuperação de lesões e recondicionamento físico com protocolos individualizados que devolvem função, movimento e desempenho.
+- **Quiropraxia Equina**: ajustes que restabelecem o equilíbrio da coluna e das articulações, aliviando dores e travamentos; indicada em casos de assimetria de movimento, resistência ao comando e queda de rendimento.
+- **Acupuntura Equina**: estímulo de pontos específicos para controle da dor, relaxamento muscular e melhora do desempenho esportivo.
+
+## Perguntas frequentes
+
+- **Quando procurar fisioterapia equina?** Após lesões ou cirurgias, para recondicionamento físico e para prevenção de novas lesões no cavalo atleta.
+- **Quando a quiropraxia é indicada?** Dor ou travamento na coluna, assimetrias, resistência ao comando ou queda de rendimento.
+- **Para que serve a acupuntura no cavalo?** Controle de dor, relaxamento muscular e suporte ao desempenho, como complemento ao tratamento clínico.
+
+## Links
+
+- [Site oficial](https://hcg-performance.vercel.app/): landing page com serviços, FAQ e contato
+- [Instagram](https://www.instagram.com/hcg.performance/): @hcg.performance — conteúdo e agendamentos
